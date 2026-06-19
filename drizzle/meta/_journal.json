@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781870803790,
+      "tag": "0000_worried_falcon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781870952303,
+      "tag": "0001_acoustic_meteorite",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781871004898,
+      "tag": "0002_minor_chat",
+      "breakpoints": true
+    }
+  ]
+}
